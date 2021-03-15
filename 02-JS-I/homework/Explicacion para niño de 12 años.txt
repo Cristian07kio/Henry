@@ -1,1 +1,13 @@
-1)
+1)Las Variables
+Es un contenedor de información que se puede configurar y restablecer a cualquier tipo
+no es necesario declarar su tipo al iniciarla.
+ Ejemplo:
+
+ VAR pais= "Argentina";
+
+ 2) Strings:
+ Utilizando el ejemplo anterior podemos ver qe el string es 
+ un bloque de texto en ese caso "Argentina", siempre escribiendolo entre comillas sean simples o dobles.
+
+ 3)las funciones son una parte importantisima dentro del lenguaje de js,
+ ya teniendo nuestras variables necesitamos funciones para calcularlas, cambiarlas, hacer algo con ellas.
